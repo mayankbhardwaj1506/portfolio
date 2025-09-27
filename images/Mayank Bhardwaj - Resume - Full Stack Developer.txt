@@ -1,0 +1,47 @@
+Mayank Bhardwaj
+Full Stack Developer
+
+Kasganj , Uttar Pradesh 
+9548492125
+mayankbhardwaj2125@gmail.com
+
+I’m a beginner Full Stack Developer with skills in HTML, CSS, JavaScript, and PHP. I’m passionate about creating both the look and functionality of websites. I know how to build user-friendly designs and develop the backend to make everything run smoothly. I’m eager to learn more, improve my skills, and work on real projects that challenge me. I’m looking forward to contributing to a team and growing as a developer.
+
+PERSONAL INFORMATION
+  Address: Bilram, District Kasganj Uttar Pradesh , 
+  Nationality: Indian
+  Hobbies: Coding
+
+My Project
+o  A Forum website for programming language: https://idisscuss.page.gd
+o My Portfolio website
+o Netflix landing page clone
+o Ultra edit landing page clone
+
+SKILLS
+ HTML			?????			 CSS	 		?????
+ Tailwind CSS 		????? 			JavaScript		?????
+ jQuery 			?????			React JS		?????
+  Ajax				?????			Bootstrap	 	????? 
+  PHP				?????			MySQL		 ?????
+
+
+WORK EXPERIENCE
+o Fresher 
+
+EDUCATION
+* July 2021 – October 2024
+     K.A. ( P.G )  College Kasgnaj, Kasganj,Uttar Pradesh                                    Bachelor of Science (PCM)
+* July 2024 – October 202
+   		 National institute of electronics and information technology, Lucknow 
+      A Level ( IT ), Specialization in Full Stack Development
+* January 2023 – February 2024
+    		National institute of electronics and information technology
+     O level IT, Foundation Course
+
+COURSES
+* July 2024 – October 2025
+    A level IT, National institute of electronics and information technology 
+* January 2023 – January 2024
+    O level IT, National institute of electronics and information technology 
+
