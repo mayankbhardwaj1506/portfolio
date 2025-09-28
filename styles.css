@@ -217,18 +217,35 @@ li a:hover {
 }
 
 #btn3 {
-    background-color: rgb(232, 43, 43);
+    background-color: rgb(214, 35, 35);
     color: white;
     border-color: transparent;
     font-size: 17px;
     border-radius: 25px;
     padding: 8px 25px;
+    margin-right: 4px;
 
 }
 
-#btn2,
+#btn4 {
+    background-color: rgb(5, 142, 226);
+    color: white;
+    border-color: transparent;
+    font-size: 17px;
+    border-radius: 25px;
+    padding: 8px 25px;
+    margin-right: 4px;
+
+}
+
+#btn2:hover,
 #btn3:hover {
     background-color: rgb(218, 48, 48);
+    box-shadow: 1px 2px 10px rgb(107, 99, 99);
+}
+
+#btn4:hover {
+    background-color: rgb(36, 139, 194);
     box-shadow: 1px 2px 10px rgb(107, 99, 99);
 }
 
@@ -358,9 +375,10 @@ main {
 
 #about #aboutimg {
     border-radius: 50%;
-    border: 2px solid rgb(160, 218, 214);
+    border: 5px solid rgb(160, 218, 214);
     box-shadow: 1px 1px 5px 1px rgb(104, 143, 140);
-    width: 320px;
+    width: 350px;
+    height: 350px;
 }
 
 .skill {
@@ -377,19 +395,19 @@ main {
     align-items: center;
     gap: 10px;
     border: 1px solid rgb(244, 244, 244);
-    padding: 5px 20px;
+    padding: 5px 21px;
     border-radius: 20px;
     font-weight: 600;
     box-shadow: 1px 2px 20px 1px rgb(104, 143, 140);
     background-color: rgb(236, 236, 236);
-    margin: 15px 0;
+    margin: 12px 0;
 
 }
 
 
 .skill img {
     width: 40px;
-    height: 30px;
+    height: 32px;
 }
 
 .p5 {
@@ -462,11 +480,10 @@ span span {
     margin-right: 10px;
 }
 
+.card h1 {
+    margin-bottom: 6px;
+}
 
-/* div.card:hover {
-    transform: scale(1.1);
-    margin: 5;
-} */
 .img {
     border-radius: 10px;
     border: 1px solid black;
@@ -547,24 +564,18 @@ div label {
     border-radius: 20px;
     font-size: 17px;
     font-weight: 500;
-    color: rgb(41, 58, 58);
-    border-left: 2px solid rgb(57, 109, 103);
-    border-right: 2px solid rgb(47, 96, 90);
-    background-color: rgb(111, 171, 165);
-    float: right;
-}
-
-#btn:hover {
-    border-color: transparent;
-    padding: 10px 15px;
-    border-radius: 20px;
-    font-size: 17px;
-    font-weight: 500;
-    color: rgb(175, 220, 220);
+     color: rgb(227, 243, 243);
     border-left: 2px solid rgb(255, 174, 0);
     border-right: 2px solid rgb(255, 174, 0);
     background-color: rgb(73, 135, 129);
     float: right;
+}
+
+#btn:hover {
+    color: rgb(227, 243, 243);
+    border-left: 2px solid rgb(255, 174, 0);
+    border-right: 2px solid rgb(255, 174, 0);
+    background-color: rgb(29, 82, 77);
 }
 
 footer {
@@ -738,6 +749,7 @@ footer {
 
     #about #aboutimg {
         width: 200px;
+        height: 200px;
 
     }
 
@@ -874,10 +886,7 @@ footer {
         border-radius: 20px;
         font-size: 17px;
         font-weight: 500;
-        color: rgb(41, 58, 58);
-        border-left: 2px solid rgb(57, 109, 103);
-        border-right: 2px solid rgb(47, 96, 90);
-        background-color: rgb(111, 171, 165);
+        
         float: right;
     }
 
